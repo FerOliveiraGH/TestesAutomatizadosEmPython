@@ -1,5 +1,5 @@
 
-# :monkey_face: Automação de testes funcionais Financeiro :see_no_evil: :hear_no_evil: :speak_no_evil:
+# Automação de testes funcionais Loja Virtual
 
 ## Instalação/Configuração do projeto 
 
